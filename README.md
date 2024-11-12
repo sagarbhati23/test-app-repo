@@ -12,12 +12,6 @@ Java 1.8 or higher
 Maven
 MySQL
 
-Setup Instructions
-Clone the Repository: Clone the project to your local machine.
-Database Setup: Create the todoappdb database and the users table in MySQL
-Update Credentials: Modify database connection details in UserDAO.java.
-Build and Run: Use Maven to build and run the project.
-
 How to Use
 Insert a User: Add new users to the database
 Select a User: Retrieve user information by ID.
