@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.content {
+    position: absolute;
+    left: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;            
+    padding: 10px;
+    margin-top: 100px;
+}
+.content span {
+    cursor: pointer;
+}
+.page {
+    top: 20px;
+    left: 190px;
+    height: 610px;
+    width: 0px;
+    position: absolute;
+    background-color: white;
+    transition: width 0.3s ease; 
+    overflow: hidden; 
+    transform-origin: right; 
+    border-radius: 5px; 
+    box-shadow: 1px 2px 5px rgb(82, 163, 156);
+}
+input {
+    position: absolute;
+    top: 50px;
+    left: 15px;
+}
