@@ -1,4 +1,4 @@
-# test-app-repo
+# to-do-app
 
 This is a simple To-Do application built using Java and MySQL. It enables users to manage tasks by adding, updating, deleting, and viewing them. The project follows an MVC (Model-View-Controller) architecture and uses JDBC for database interactions.
 
